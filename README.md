@@ -6,7 +6,7 @@ This project was developed in September 2019 in 4 days by myself as part of the 
 
 As part of my learning journey, and to show everyone starts somewhere, a screenshot of the website after 4 days will be placed in this Readme later.
 
-##Objectives
+<h2>Objectives</h2>
 <ul>
     <li>Website created using CSS framework</li>
     <li>Website contains 5 pages</li>
@@ -21,9 +21,9 @@ As part of my learning journey, and to show everyone starts somewhere, a screens
     <li>Personal objective: as the franchise will be Japanese, the hiragana / katakana symbols should be readable by the browser</li>
 </ul>
 
-##After four days
+<h2>After four days</h2>
 (coming soon)
 
-##Completion of project
+<h2>Completion of project</h2>
 (coming soon)
 
