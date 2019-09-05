@@ -8,59 +8,98 @@
     <title>Sakura Bentos Menu</title>
 </head>
 <body>
-    <header class="container">
-         <h1>Sakura bento</h1>
-             <p lang="ja-jp">さくら</p>
+    <header class="container-fluid">
+        <div class="row border border-dark">
+            <h1 class="col-12 col-md-12 text-center">Sakura bento</h1>
+            <p class="col-12 col-md-12 text-center" lang="ja-jp">さくら べんと</p>
+        </div>    
     </header>
-
-    <nav>
-             <div><a href="menu.html">Menu</a></div>
-             <div><a href="gallery.html">Gallery</a></div>
-             <div><a href="ourrestaurants.html">Our restaurants</a></div>
-             <div><a href="contact.html">Contact us</a></div>
+    
+    <nav class="container">
+        <div class="row center">
+            <div class="col-12 col-md-3 text-center"><a href="menu.html">Menu</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="gallery.html">Gallery</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="ourrestaurants.html">Our restaurants</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="contact.html">Contact us</a></div>
+            
+            
+        </div>
     </nav>
 
-    <article>
-        <div class="row"></div>
-        <div>Our most popular bentos</div>
-        <div>Fish and vegetable sushi</div>
-        <div>Porc Tonkatsu</div>
-        <div>Vegetarian Donburi</div>
-        <div>Chicken Gyoza</div>
-        <div>Vegan sushi</div>
-    </article>
 
-    <section>
-    <ul>
-        <li>Fish <span lang="ja-jp">さかな</span>
-            <ul>
-                <li>Fish and vegetable sushi</li>
-                <li>Sushi and sashimi</li>
-                <li>Unagi Donburi</li>
-                <li>Salted salmon</li>
-                <li>Onigiri (tuna and salmon)</li>
-            </ul>
-        </li>
+    <section class="container-fluid">
+        <div class="row">
+            <div id="popular" class="col-12 col-md-6">
+                <div class="row">
+                    <div class="col-12 col-md-12">Our most popular bentos</div>
+                    <div class="col-1 col-md-1"></div>
+                    <div class="col-8 col-md-8">Fish and vegetable sushi</div>
+                    <div class="col-1 col-md-1">Image</div>
+                    <div class="col-1 col-md-1">8£</div>
+                    <div class="col-1 col-md-1"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1 col-md-1"></div>
+                    <div class="col-8 col-md-8">Porc tonkatsu</div>
+                    <div class="col-1 col-md-1">Image</div>
+                    <div class="col-1 col-md-1">8£</div>
+                    <div class="col-1 col-md-1"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1 col-md-1"></div>
+                    <div class="col-8 col-md-8">Tofu donburi (V)</div>
+                    <div class="col-1 col-md-1">Image</div>
+                    <div class="col-1 col-md-1">7£</div>
+                    <div class="col-1 col-md-1"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1 col-md-1"></div>
+                    <div class="col-8 col-md-8">Chicken gyoza</div>
+                    <div class="col-1 col-md-1">Image</div>
+                    <div class="col-1 col-md-1">8£</div>
+                    <div class="col-1 col-md-1"></div>
+                </div>
+                <div class="row">
+                        <div class="col-1 col-md-1"></div>
+                        <div class="col-8 col-md-8">Vegan sushi (V)</div>
+                        <div class="col-1 col-md-1">Image</div>
+                        <div class="col-1 col-md-1">7£</div>
+                        <div class="col-1 col-md-1"></div>
+                </div>
+            </div>
+            <div id="list" class="col-12 col-md-6">
+                <ul>
+                <li>Fish <span class="text-right" lang="ja-jp">さかな</span>
+                    <ul>
+                    <li>Fish and vegetable sushi</li>
+                    <li>Sushi and sashimi</li>
+                    <li>Unagi Donburi</li>
+                    <li>Salted salmon</li>
+                    <li>Onigiri (tuna and salmon)</li>
+                    </ul>
+                </li>
         
-        <li>Meat <span lang="ja-jp">にく</span>
-            <ul>
-                <li>Chicken gyoza</li>
-                <li>Porc Tonkatsu</li>
-                <li>Chicken kara-age</li>
-                <li>Porc yakitori</li>
-                <li>Tsukune meatballs</li>
-            </ul>
-        </li>
-        <li>Vegetarian (Vegan) <span lang="ja-jp">ベジタリアン (ビーガン)</span>
-            <ul>
-                <li>Tofu donburi (V)</li>
-                <li>Fried tofu nuggets</li>
-                <li>Vegetarian onigiri</li>
-                <li>Vegan onigir (V)</li>
-                <li>Vegetarian tempura</li>
-            </ul>
-        </li>
-    </ul>
+                <li>Meat <span class="text-right" lang="ja-jp">にく</span>
+                    <ul>
+                    <li>Chicken gyoza</li>
+                    <li>Porc Tonkatsu</li>
+                    <li>Chicken kara-age</li>
+                    <li>Porc yakitori</li>
+                    <li>Tsukune meatballs</li>
+                    </ul>
+                </li>
+                <li>Vegetarian (Vegan) <span class="text-right" lang="ja-jp">ベジタリアン (ビーガン)</span>
+                    <ul>
+                    <li>Tofu donburi (V)</li>
+                    <li>Fried tofu nuggets</li>
+                    <li>Vegetarian onigiri</li>
+                    <li>Vegan onigiri (V)</li>
+                    <li>Vegetarian tempura</li>
+                    </ul>
+                </li>
+                </ul>
+            </div>
+        </div>   
     </section>
 
 </body>

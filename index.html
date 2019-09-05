@@ -7,35 +7,47 @@
     <title>Welcome to Sakura Bentos!</title>
 </head>
 <body>
-    <header class="container">
-        <h1>Sakura bento</h1>
-        <p lang="ja-jp">さくら</p>
+    <header class="container-fluid">
+        <div class="row border border-dark">
+            <h1 class="col-12 col-md-12 text-center">Sakura bento</h1>
+            <p class="col-12 col-md-12 text-center" lang="ja-jp">さくら べんと</p>
+        </div>    
     </header>
 
-    <nav>
-        <div><a href="menu.html">Menu</a></div>
-        <div><a href="gallery.html">Gallery</a></div>
-        <div><a href="ourrestaurants.html">Our restaurants</a></div>
-        <div><a href="contact.html">Contact us</a></div>
+    <nav class="container">
+        <div class="row center">
+        <div class="col-12 col-md-3 text-center"><a href="menu.html">Menu</a></div>
+        <div class="col-12 col-md-3 text-center"><a href="gallery.html">Gallery</a></div>
+        <div class="col-12 col-md-3 text-center"><a href="ourrestaurants.html">Our restaurants</a></div>
+        <div class="col-12 col-md-3 text-center"><a href="contact.html">Contact us</a></div>
+        </div>
     </nav>
 
-    <section>
-        <h2>Green bentobox scheme</h2>
-        <p>Sakura bentos are going green! Bring back your (empty) bento lunchbox after having enjoyed your meal and receive 2£ off your next order.</p>
+    <section class="container">
+        <div class="row">
+            <div class="col-1 col-md-1"></div>
+            <h2 class="col-10 text-center">Green bentobox scheme</h2>
+            <div class="col-1 col-md-1"></div>
+            <p class="col-12 col-md-12">Sakura bentos are going green! Bring back your (empty) bento lunchbox after having enjoyed your meal and receive 2£ off your next order.</p>
+        </div>
     </section>
 
-    <article>
-        <p>Sakura bento restaurant aims to bring you a healthy and tasty lunch or dinner full of flavours straight from Japan. Enjoy our balanced, home-style bento boxes for an authentic japanese lunch experience, with fish, meat, or vegetarian options. You can enjoy your bento to go or sit down in our London or Edinburgh restaurant.</p>
-        <p lang="ja-jp">いただきます！</p>
+    <article class="container">
+        <div class="row">
+                <p class="col-12 col-md-10 order-last">Sakura bento restaurant aims to bring you a healthy and tasty lunch or dinner full of flavours straight from Japan. Enjoy our balanced, home-style bento boxes for an authentic japanese lunch experience, with fish, meat, or vegetarian options. You can enjoy your bento to go or sit down in our London or Edinburgh restaurant.</p>
+                <p class="col-12 col-md-2 text-center" lang="ja-jp">いただきます！</p>
+        </div>
     </article>
 
-    <section>
-        <p>What's new</p>
-        <p>Due to high demand, vegan options have been added to the menu. Look for the (V) symbol.</p>
-        <p>Opening soon</p>
-        <p>Sakura Bento is conquering the world, one city in the UK at a time. We are scheduled to open our next restaurant in Manchester in January 2020!</p>
-        <p>Job offers</p>
-        <p>Sakura Bento is hiring! Visit your local branch, see what role gets you excited to join Sakura Bento,  and drop a CV to our managers!</p>
+    <section class="container-fluid">
+        <div class="row">
+            <p class="col-12 col-md-12">What's new</p>
+            <p class="col-12 col-md-12">Due to high demand, vegan options have been added to the <a href="menu.html">menu</a>. Look for the (V) symbol.</p>
+            <p class="col-12 col-md-12">Opening soon</p>
+            <p class="col-12 col-md-12">Sakura Bento is conquering the world, one city in the UK at a time. We are scheduled to open our next restaurant in Manchester in January 2020!</p>
+            <p class="col-12 col-md-12">Job offers</p>
+            <p class="col-12 col-md-12">Sakura Bento is hiring! Visit your local branch, see what role gets you excited to join Sakura Bento,  and drop a CV to our managers!</p>
+        </div>
     </section>
 </body>
 </html>
