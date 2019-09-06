@@ -4,33 +4,61 @@
     <meta charset="UTF-8" name="Sakura bentos" content="sakura bento restaurant chain japanese cooking cuisine">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <title>Welcome to Sakura Bentos!</title>
+    <title>Contact Sakura Bentos!</title>
 </head>
 <body>
-    <header class="container">
-        <h1>Sakura bento</h1>
-        <p lang="ja-jp">さくら</p>
+
+    <header class="container-fluid">
+        <div class="row border border-dark">
+            <h1 class="col-12 col-md-12 text-center">Sakura bento</h1>
+            <p class="col-12 col-md-12 text-center" lang="ja-jp">さくら べんと</p>
+        </div>
     </header>
-    
-    <nav>
-        <div><a href="menu.html">Menu</a></div>
-        <div><a href="gallery.html">Gallery</a></div>
-        <div><a href="ourrestaurants.html">Our restaurants</a></div>
-        <div><a href="contact.html">Contact us</a></div>
+    <nav class="container">
+        <div class="row center">
+            <div class="col-12 col-md-3 text-center"><a href="menu.html">Menu</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="gallery.html">Gallery</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="ourrestaurants.html">Our restaurants</a></div>
+            <div class="col-12 col-md-3 text-center"><a href="contact.html">Contact us</a></div>
+        </div>
     </nav>
 
-    <section>
-        <div>
-            <div class="row"></div>
-            <div>First name</div>
-            <div>Last name</div>
-            <div>Email</div>
-            <div>Title of your email<!--dropdown with options--></div>
-            <div>Your message</div>
-            <div class="button">Send</div>
+   <section class="container">
+    <div class="row">
+       <div class="offset-2 col-8 col-md-8 form-group">
+            <label for="firstname">First name:</label>
+            <input type="text" class="form-control" id="firstname">
         </div>
-    </section>
-
-
+         <div class="offset-2 col-8 col-md-8 form-group">
+             <label for="lastname">Last name:</label>
+             <input type="text" class="form-control" id="lastname">
+         </div>
+        <div class="offset-2 col-8 col-md-8 form-group">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="firstname">
+        </div>
+         <div class="offset-2 col-3 col-md-3 dropdown">
+             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown"><span class="caret"></span>Category</button>
+                <ul class="dropdown-menu">
+                    <li><a href="#">>Reservation</a></li>
+                    <li><a href="#">Nutrition / allergen information</a></li>
+                    <li><a href="#">Catering request</a></li>
+                    <li><a href="#">Other</a></li>
+                </ul>
+         </div>                              
+         <div class="offset-2 col-8 col-md-8 form-group">
+             <label for="message">Your message:</label>
+             <input type="text" class="form-control" id="message">
+         </div>
+         
+         <div class="offset-4 col-4 col-md-4 btn btn-primary" type="button">Send</div>
+    </div>   
+   </section>
+<script src="JavaScript/bootstrap-dropdown.js" />  
+<script>
+    $(document).ready(function () {
+        $('.dropdown-toggle').dropdown();
+    });
+</script>
 </body>
 </html>
