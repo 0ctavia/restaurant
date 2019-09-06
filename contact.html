@@ -4,6 +4,8 @@
     <meta charset="UTF-8" name="Sakura bentos" content="sakura bento restaurant chain japanese cooking cuisine">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <title>Contact Sakura Bentos!</title>
 </head>
 <body>
@@ -38,12 +40,12 @@
             <input type="email" class="form-control" id="firstname">
         </div>
          <div class="offset-2 col-3 col-md-3 dropdown">
-             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown"><span class="caret"></span>Category</button>
-                <ul class="dropdown-menu">
-                    <li><a href="#">>Reservation</a></li>
-                    <li><a href="#">Nutrition / allergen information</a></li>
-                    <li><a href="#">Catering request</a></li>
-                    <li><a href="#">Other</a></li>
+             <button class="btn btn-primary dropdown-toggle" id="dropdownMenu" aria-haspopup="true" type="button" data-toggle="dropdown"><span class="caret"></span>Category</button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+                    <li class="drowdown-item">Reservation</li>
+                    <li class="dropdown-item">Nutrition / allergen information</li>
+                    <li class="dropdown-item">Catering request</li>
+                    <li class="dropdown-item">Other</li>
                 </ul>
          </div>                              
          <div class="offset-2 col-8 col-md-8 form-group">
