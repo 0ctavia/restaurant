@@ -5,7 +5,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <title>Contact Sakura Bentos!</title>
 </head>
 <body>
@@ -40,13 +41,15 @@
             <input type="email" class="form-control" id="firstname">
         </div>
          <div class="offset-2 col-3 col-md-3 dropdown">
-             <button class="btn btn-primary dropdown-toggle" id="dropdownMenu" aria-haspopup="true" type="button" data-toggle="dropdown"><span class="caret"></span>Category</button>
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
-                    <li class="drowdown-item">Reservation</li>
-                    <li class="dropdown-item">Nutrition / allergen information</li>
-                    <li class="dropdown-item">Catering request</li>
-                    <li class="dropdown-item">Other</li>
-                </ul>
+             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                 <span class="caret"> </span> Category 
+             </button>
+                    <ul class="dropdown-menu">
+                       <li class="dropdown-item">Nutrition / allergen information</li>
+                       <li class="dropdown-item">Catering request</li>
+                       <li class="dropdown-item">Reservation</li>
+                       <li class="dropdown-item">Other</li>
+                    </ul>
          </div>                              
          <div class="offset-2 col-8 col-md-8 form-group">
              <label for="message">Your message:</label>
@@ -56,11 +59,9 @@
          <div class="offset-4 col-4 col-md-4 btn btn-primary" type="button">Send</div>
     </div>   
    </section>
-<script src="JavaScript/bootstrap-dropdown.js" />  
-<script>
-    $(document).ready(function () {
-        $('.dropdown-toggle').dropdown();
-    });
-</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
 </body>
+
 </html>

@@ -1,0 +1,9 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("/assets/images/branch.jpeg");
+  background-repeat: no-repeat;
+  background-size: stretch; }

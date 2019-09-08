@@ -27,3 +27,5 @@ As part of my learning journey, and to show everyone starts somewhere, a screens
 <h2>Completion of project</h2>
 (coming soon)
 
+<h3>Image source</h3>
+All images are sourced from either pixabay.com or publicdomainpictures.net. Usage is non-commercial.
