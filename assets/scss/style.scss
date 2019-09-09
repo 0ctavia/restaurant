@@ -1,14 +1,44 @@
 body {
     font-family: 'Noto Sans', sans-serif;
     background-color: #e5d7e0;
+    color: hsla(321,21%,19%,1);
 }   
    
 header {
         background-color: #cfe5e3;
-        background-image: url("/assets/images/branch.jpeg");
+        background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
         background-repeat: no-repeat;
-        background-size:stretch;
+        background-size:cover;
+        background-color: hsla(0,0%,100%,0.60);
+        background-blend-mode: overlay;
+        background-position:center;
+        font-family: 'Chilanka', cursive;
+        color:hsla(319, 21%, 26%, 1);
+
+        h1 {
+        font-size: 1.5em;
+        font-weight:bold;
+        color: hsla(321,21%,19%,1);
+        }
+    }
+nav {
+        a {
+        font-family:'Chilanka', cursive;
+        font-weight: italic;
+        font-size:1.5em;
+         }
     }
 
-
-
+article {
+    font-weight: bold;
+}
+.panel {
+        .panel-heading{
+            background-color:hsla(319, 21%, 81%, 1);
+            color:hsla(175, 30%, 30%, 1);
+        }
+        .panel-body{
+            background-color:hsla(319, 21%, 90%, 1);
+            color:hsla(319,21%,19%,1);
+        }
+    }
