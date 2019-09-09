@@ -1,355 +1,5 @@
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg");
-  background-repeat: no-repeat;
-  background-size: stretch; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg");
-  background-repeat: no-repeat;
-  background-size: stretch; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg");
-  background-repeat: no-repeat; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-cover: stretch; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-position: center; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold;
-  font-size: 2vh; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold;
-  font-size: 2vh; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 3em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold;
-  font-size: 3em; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold; }
-  header h1 {
-    font-size: 3em; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  font-weight: bold; }
-  header h1 {
-    font-size: 1.5em; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: rgba(253, 252, 253, 0.75); }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #fdfcfd; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #3b2634; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.7);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #3b2634; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #3b2634; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
   color: #3b2634; }
 
@@ -371,65 +21,46 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #3b2634; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
-
-article {
-  font-weight: bold; }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447; }
-  header h1 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #3b2634; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-section panel-heading {
-  background-color: #e0d6bf;
-  color: #cfe5e3; }
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
@@ -453,14 +84,46 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-.panel .panel-heading {
-  background-color: #e0d6bf;
-  color: #cfe5e3; }
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
@@ -484,14 +147,46 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-.panel .panel-heading {
-  background-color: #d9c4d2;
-  color: #cfe5e3; }
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: #e5d7e0;
+  color: #d9c4d2;
+  padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
@@ -515,14 +210,46 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-.panel .panel-heading {
-  background-color: #d9c4d2;
-  color: #366360; }
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 81%, 1;
+  color: #3b2634;
+  padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
@@ -546,17 +273,46 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-.panel .panel-heading {
-  background-color: #d9c4d2;
-  color: #366360; }
-.panel .panel-body {
-  background-color: #f1e9ef;
-  color: #3b2634; }
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
   background-color: #e5d7e0;
@@ -580,14 +336,1565 @@ header {
 nav a {
   font-family: 'Chilanka', cursive;
   font-weight: italic;
-  font-size: 1.5em; }
+  font-size: 1.25em; }
 
 article {
   font-weight: bold; }
 
-.panel .panel-heading {
-  background-color: #d9c4d2;
-  color: #366360; }
-.panel .panel-body {
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447; }
+  header h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447; }
+  header h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 2em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447; }
+  header h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 2em; }
+  header h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 90%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  background-color: 319, 21%, 99%, 1;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group-item {
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
   background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
   color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+  .list-group table {
+    border: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+table {
+  border: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+.table {
+  border: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+.border-light {
+  border: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+.border-light {
+  border: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+.border-light {
+  border-width: 5px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+.border-light {
+  border-width: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+table .border {
+  border-width: 3px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em;
+  padding-top: 5px; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em;
+  padding-top: 10px; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em;
+  padding-top: 10px; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634;
+    padding-top: 3px; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em;
+  padding-top: 5px; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634;
+    padding-top: 3px; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #e5d7e0;
+  color: #3b2634; }
+
+header {
+  background-color: #cfe5e3;
+  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+  background-position: center;
+  font-family: 'Chilanka', cursive;
+  color: #503447;
+  font-size: 1.5em; }
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #3b2634;
+    padding-top: 8px; }
+
+nav a {
+  font-family: 'Chilanka', cursive;
+  font-weight: italic;
+  font-size: 1.25em; }
+
+article {
+  font-weight: bold; }
+
+.panel {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #503447;
+  border-radius: 5px;
+  padding: 1em; }
+  .panel .panel-heading {
+    background-color: #d9c4d2;
+    color: #366360; }
+  .panel .panel-body {
+    background-color: #ebe0e7;
+    color: #3b2634; }
+
+.fas {
+  color: #503447;
+  font-size: 1.15em; }
+
+#popular {
+  line-height: 40px; }
+  #popular row {
+    line-height: 40px; }
+
+#menulist {
+  background-color: #e5d7e0;
+  color: #3b2634;
+  margin-top: 5px; }
+  #menulist .row {
+    background-color: #e5d7e0; }
+    #menulist .row ul {
+      background-color: #e5d7e0; }
+
+.list-group {
+  background-color: #ebe0e7;
+  color: #3b2634;
+  padding: 5px; }
+
+#openinghours {
+  border-width: 3px;
+  border-color: #503447; }
