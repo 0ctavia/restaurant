@@ -1,814 +1,1128 @@
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
   color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: calc(100vh - 130px); }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: calc(100vh - 260px); }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  max-width: 20vh;
-  border-radius: 50%; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  width: 20vh;
-  border-radius: 50%; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 5px;
+    border-width: 2px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  width: 20vh;
-  max-heigth: 75px;
-  border-radius: 50%; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold italic;
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  max-width: 20vh;
-  border-radius: 50%; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
     font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+    font-size: 1.25em; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  width: 200px;
-  max-width: 20vh;
-  border-radius: 50%;
-  padding: 5px; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
   color: #3b2634;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
     font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
-    color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+    font-size: 1.25em;
+    color: #cfe5e3; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
-  color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  width: 200px;
-  max-width: 20vh;
-  border-radius: 50%;
-  padding: 5px; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #e5d7e0;
-  color: #3b2634; }
-
-header {
-  background-color: #cfe5e3;
-  background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.6);
-  background-blend-mode: overlay;
-  background-position: center;
-  font-family: 'Chilanka', cursive;
-  color: #503447;
-  font-size: 1.5em; }
-  header h1 {
-    font-size: 2em;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
     font-weight: bold;
-    color: #3b2634;
-    padding-top: 8px; }
-
-nav a {
-  font-family: 'Chilanka', cursive;
-  font-weight: italic;
-  font-size: 1.25em; }
-
-article {
-  font-weight: bold; }
-
-.panel {
-  border-width: 1px;
-  border-color: #503447;
-  border-radius: 5px;
-  padding: 1em; }
-  .panel .panel-heading {
-    background-color: #d9c4d2;
+    font-size: 1.25em;
     color: #366360; }
-  .panel .panel-body {
-    background-color: #ebe0e7;
-    color: #3b2634; }
-
-.fas {
-  color: #503447;
-  font-size: 1.15em; }
-
-#popular {
-  line-height: 40px; }
-  #popular row {
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
     line-height: 40px; }
-
-#menulist {
-  background-color: #e5d7e0;
-  color: #3b2634;
-  margin-top: 5px; }
-  #menulist .row {
-    background-color: #e5d7e0; }
-    #menulist .row ul {
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
       background-color: #e5d7e0; }
-
-.list-group {
-  background-color: #ebe0e7;
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
   color: #3b2634;
-  padding: 5px; }
-  .list-group .list-group-item {
-    background-color: #e5d7e0; }
-
-#openinghours {
-  border-width: 3px;
-  border-color: #503447; }
-
-div > img {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 10px; }
-
-ul > li > a.active {
-  background-color: #e0d6bf; }
-
-#indeximages > div > div > img {
-  width: 200px;
-  max-width: 20vh;
-  border-radius: 50%;
-  padding: 5px; }
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #366360; }
+  body article {
+    font-weight: bold; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
+    line-height: 40px; }
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
+      background-color: #e5d7e0; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #366360; }
+  body article {
+    font-weight: bolder; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
+    line-height: 40px; }
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
+      background-color: #e5d7e0; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #366360; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
+    line-height: 40px; }
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
+      background-color: #e5d7e0; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #366360; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
+    line-height: 40px; }
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
+      background-color: #e5d7e0; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: linear-gradient(#d1b8c8, #f9f6f8);
+  color: #3b2634;
+  min-height: 100vh; }
+  body #imagegallery {
+    min-height: calc(100vh - 260px); }
+  body header {
+    background-color: #cfe5e3;
+    background-image: url("https://github.com/0ctavia/restaurant/blob/master/assets/images/branch.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: overlay;
+    background-position: center;
+    font-family: 'Chilanka', cursive;
+    color: #503447;
+    font-size: 1.5em; }
+    body header h1 {
+      font-size: 2em;
+      font-weight: bold;
+      color: #3b2634;
+      padding-top: 8px; }
+  body nav a {
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #25746e; }
+  body .panel {
+    border-width: 1px;
+    border-color: #503447;
+    border-radius: 5px;
+    padding: 1em; }
+    body .panel .panel-heading {
+      background-color: #d9c4d2;
+      color: #366360; }
+    body .panel .panel-body {
+      background-color: #ebe0e7;
+      color: #3b2634; }
+  body .fas {
+    color: #503447;
+    font-size: 1.15em; }
+  body #popular {
+    line-height: 40px; }
+    body #popular row {
+      line-height: 40px; }
+  body #menulist {
+    background-color: #e5d7e0;
+    color: #3b2634;
+    margin-top: 5px; }
+    body #menulist .row {
+      background-color: #e5d7e0; }
+      body #menulist .row ul {
+        background-color: #e5d7e0; }
+  body .list-group {
+    background-color: #ebe0e7;
+    color: #3b2634;
+    padding: 5px; }
+    body .list-group .list-group-item {
+      background-color: #e5d7e0; }
+  body #openinghours {
+    border-width: 3px;
+    border-color: #503447; }
+  body div > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px; }
+  body ul > li > a.active {
+    background-color: #e0d6bf; }
+  body #indeximages > div > div > img {
+    border-radius: 50%;
+    padding: 5px; }
+  body .border-dark {
+    border-radius: 10px;
+    border-width: 2px; }
