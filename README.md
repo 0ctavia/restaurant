@@ -22,7 +22,11 @@ As part of my learning journey, and to show everyone starts somewhere, a screens
 </ul>
 
 <h2>After four days</h2>
+Screenshot of the layout on a computer
+<img src="https://github.com/0ctavia/restaurant/blob/master/assets/images/indexscreenshot.png?raw=true">
 
+Screenshot of the layout on mobile
+<img src="https://github.com/0ctavia/restaurant/blob/master/assets/images/indexmobilescreenshot.png?raw=true">
 
 <h2>Completion of project</h2>
 (coming soon)
