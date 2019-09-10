@@ -1,8 +1,8 @@
 # Restaurant project
 
-The aim of this project is to create a webpage for a fictive restaurant franchise.
+The aim of this project is to create a webpage for a fictive restaurant franchise, which can be found <a href="https://0ctavia.github.io/restaurant/">here</a>.
 
-This project was developed in September 2019 in 4 days by myself as part of the <a href="https://www.becode.org/">BeCode.org</a> promotion Johnson 4.14. If after 4 days the website has not reached completion of all the objectives, it can eventually be finished later.
+This project was developed in September 2019 in 4 days by myself as part of the <a href="https://www.becode.org/">BeCode.org</a> promotion Johnson 4.14, on the third week of our classes. If after 4 days the website has not reached completion of all the objectives, it can eventually be finished later.
 
 As part of my learning journey, and to show everyone starts somewhere, a screenshot of the website after 4 days will be placed in this Readme later.
 
@@ -18,11 +18,11 @@ As part of my learning journey, and to show everyone starts somewhere, a screens
             <li>Contact: contains a contact form</li>
         </ul>
     <li>Contain royalty-free pictures</li>
-    <li>Personal objective: as the franchise will be Japanese, the hiragana / katakana symbols should be readable by the browser</li>
+    <li>Personal objective: as the restaurant will be Japanese, the hiragana / katakana symbols should be readable by the browser</li>
 </ul>
 
 <h2>After four days</h2>
-(coming soon)
+
 
 <h2>Completion of project</h2>
 (coming soon)
