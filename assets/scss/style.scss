@@ -5,8 +5,16 @@ body {
     min-height:100vh;
 
 #imagegallery {
-    min-height:calc(100vh - 260px);
+    min-height:calc(100vh - 275px);
 }
+
+.pagination {
+        position:fixed;
+        left:50%;
+        transform:translateX(-50%);
+        bottom: 20px;
+        padding:5px;
+    }
 
 header {
         background-color: #cfe5e3;
@@ -31,8 +39,8 @@ nav {
         a {
         font-family:'Chilanka', cursive;
         font-weight: bold;
-        font-size:1.5em;
-        color:#25746e;
+        font-size:1.25em;
+        color:#254044;
          }
     }
 
@@ -44,11 +52,16 @@ nav {
 
         .panel-heading{
             background-color:hsla(319, 21%, 81%, 1);
-            color:hsla(175, 30%, 30%, 1);
+            color:#254044;
         }
         .panel-body{
             background-color:hsla(319, 21%, 90%, 1);
-            color:hsla(319,21%,19%,1);
+            color:hsla(319,21%,25%,1);
+
+            a {
+            color:#254044;
+            text-decoration:underline;
+            }
         }
     }
 .fas {
