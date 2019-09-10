@@ -35,7 +35,6 @@ article {
     font-weight: bold;
 }
 .panel {
-        border-style: dotted;
         border-width:1px;
         border-color:hsla(319, 21%, 26%, 1);
         border-radius:5px;
@@ -80,6 +79,11 @@ article {
 #openinghours {
         border-width:3px;
         border-color:hsla(319,21%,26%,1);
+   
     }    
-    
-    
+div > img {
+        margin-top:5px;
+        margin-bottom:5px;
+        border-radius:10px;
+}
+
