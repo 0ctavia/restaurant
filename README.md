@@ -32,10 +32,12 @@ Screenshot of the layout on mobile
 
 <h2>Completion of project</h2>
 Feedback on the project included suggestions for the following enhancements:
-- Fixing the gallery images, which are not optimal on mobile devices
-- Fixing the dropdown button which doesn't seem to be working
-- Adapting the color chart of said dropdown menu
-- Adding the meaning of the vegan logo also on the menu page
+<ul>
+<li>Fixing the gallery images, which are not optimal on mobile devices</li>
+<li>Fixing the dropdown button which doesn't seem to be working</li>
+<li>Adapting the color chart of said dropdown menu</li>
+<li>Adding the meaning of the vegan logo also on the menu page</li>
+</ul>
 
 
 <h3>Image source</h3>
