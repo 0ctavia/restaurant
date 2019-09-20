@@ -31,7 +31,12 @@ Screenshot of the layout on mobile
 <img src="https://github.com/0ctavia/restaurant/blob/master/assets/images/indexmobilescreenshot.png?raw=true">
 
 <h2>Completion of project</h2>
-(coming soon)
+Feedback on the project included suggestions for the following enhancements:
+- Fixing the gallery images, which are not optimal on mobile devices
+- Fixing the dropdown button which doesn't seem to be working
+- Adapting the color chart of said dropdown menu
+- Adding the meaning of the vegan logo also on the menu page
+
 
 <h3>Image source</h3>
 All images are sourced from either pixabay.com or publicdomainpictures.net. Usage is non-commercial.
