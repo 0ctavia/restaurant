@@ -72,8 +72,10 @@ body {
   body ul > li > a.active {
     background-color: #e0d6bf; }
   body #indeximages > div > div > img {
-    border-radius: 50%;
     padding: 5px; }
   body .border-dark {
     border-radius: 10px;
     border-width: 2px; }
+  body .btn-default {
+    background-color: #ebe0e7;
+    color: #3b2634; }
