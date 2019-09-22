@@ -10,13 +10,12 @@ As part of my learning journey, and to show everyone starts somewhere, a screens
 <ul>
     <li>Website created using CSS framework</li>
     <li>Website contains 5 pages</li>
-        <ul>
-            <li>Main: contains jumbotron and 2 panels</li>
-            <li>Menu: containts a list with badges</li>
-            <li>Pictures: contains at least 10 pictures and a pagination</li>
-            <li>Restaurants page: contains a page with different addresses, a pam and schedules for each place</li>
-            <li>Contact: contains a contact form</li>
-        </ul>
+<ul>
+    <li>Main: contains jumbotron and 2 panels</li>
+    <li>Menu: containts a list with badges</li>
+    <li>Pictures: contains at least 10 pictures and a pagination</li>
+    <li>Restaurants page: contains a page with different addresses, a pam and schedules for each place</li>
+    <li>Contact: contains a contact form</li>
     <li>Contain royalty-free pictures</li>
     <li>Personal objective: as the restaurant will be Japanese, the hiragana / katakana symbols should be readable by the browser</li>
 </ul>
@@ -33,10 +32,11 @@ Screenshot of the layout on mobile
 <h2>Completion of project</h2>
 Feedback on the project included suggestions for the following enhancements:
 <ul>
-<li>Fixing the gallery images, which are not optimal on mobile devices</li>
-<li>Fixing the dropdown button which doesn't seem to be working</li>
-<li>Adapting the color chart of said dropdown menu</li>
-<li>Adding the meaning of the vegan logo also on the menu page</li>
+    <li>Fixing the gallery images, which are not optimal on mobile devices and are different sizes </li>
+    <li>Fixing the dropdown button which doesn't seem to be working</li>
+    <li>Adapting the color chart of the buttons</li>
+    <li>Adding the meaning of the vegan logo also on the menu page</li>
+    <li>Transforming the navigation bar into a burger menu</li>
 </ul>
 
 
