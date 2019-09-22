@@ -39,6 +39,9 @@ Feedback on the project included suggestions for the following enhancements:
     <li>Transforming the navigation bar into a burger menu</li>
 </ul>
 
+<img src="https://github.com/0ctavia/restaurant/blob/master/assets/images/corrdesktopscreenshot.png?raw=true">
+<br>
+<img src="https://github.com/0ctavia/restaurant/blob/master/assets/images/corrmobilescreenshot.png?raw=true">
 
 <h3>Image source</h3>
 All images are sourced from either pixabay.com or publicdomainpictures.net. Usage is non-commercial.

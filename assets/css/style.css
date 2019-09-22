@@ -79,3 +79,5 @@ body {
   body .btn-default {
     background-color: #ebe0e7;
     color: #3b2634; }
+  body table > td {
+    vertical-align: middle !important; }

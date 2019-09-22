@@ -122,5 +122,7 @@ ul > li > a.active {
     color:hsla(319,21%,19%,1);
 
 }
-
+table > td {
+    vertical-align: middle !important ;
+}
 }
