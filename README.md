@@ -1,6 +1,7 @@
 # Restaurant project
 
 The aim of this project is to create a webpage for a fictive restaurant franchise, which can be found <a href="https://0ctavia.github.io/restaurant/">here</a>.
+This website is being reworked in the meantime, inside of a docker environment, and will be deployed elsewhere once changes are satisfactory. This work can be found in the "Dockerdev" branch of this repository.
 
 This project was developed in September 2019 in 4 days by myself as part of the <a href="https://www.becode.org/">BeCode.org</a> promotion Johnson 4.14, on the third week of our classes. If after 4 days the website has not reached completion of all the objectives, it can eventually be finished later.
 
