@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  ## PHP-Apache service
+  server:
+    build:
+      context: ./docker/server
+    container_name: restaurant-webserver
+    ports:
+      - 80:80
+    restart: always
+    volumes:
+      - ./htdocs:/var/www/html
+    env_file:
+      - ./docker/docker.env
+    networks:
+      - becode
+
+
+
+networks:
+  becode:
+
