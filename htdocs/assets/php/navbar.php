@@ -12,13 +12,15 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/menu.html">Menu</a>
+                        <a class="nav-link" href="/menu.php">Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/ourrestaurants.html">Our Restaurants</a>
+                        <a class="nav-link" href="/guestbooksnippet.php">Guestbook</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ourrestaurants.php">Our Restaurants</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/gallery.html">Pictures</a>
+                        <a class="nav-link" href="/gallery.php">Pictures</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact.php">Contact</a>

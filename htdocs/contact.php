@@ -12,8 +12,7 @@
         <title>Contact Sakura Bentos!</title>
     </head>
     <body class="p-4">
-
-<?php include 'assets/php/navbar.php' ?>
+    <?php include 'assets/php/navbar.php' ?>
         <section class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-12 col-md-12">  
